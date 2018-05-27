@@ -1,7 +1,7 @@
 {
 	"painting": [
 		{
-            "image": "https://github.com/kevinconnell/mavo/blob/master/data/images/a.png",
+            "image": "https://raw.githubusercontent.com/kevinconnell/mavo/master/data/images/a.png",
 			"name": "KC",
 			"@type": "Painting"
 		},
